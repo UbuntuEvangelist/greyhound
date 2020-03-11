@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "lodash": "^2.4.1",
-    "nodeunit": "^0.9.0",
+    "nodeunit": "^0.11.3",
     "ws": "^0.4.32"
   }
 }
